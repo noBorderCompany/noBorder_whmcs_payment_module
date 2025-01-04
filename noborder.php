@@ -156,7 +156,7 @@ function noborder_config(){
             "FriendlyName" => 'API key',
             "Type" => 'text',
 			"Value" => '',
-			"Description" => 'Enter your noBorder API key. You can obtain this key by visiting <a href="https://noborder.company/cryptosite" target="_blank">https://noborder.company/cryptosite</a>'
+			"Description" => 'Enter your noBorder API key. You can obtain this key by visiting <a href="https://noborder.company/gateway" target="_blank">https://noborder.company/gateway</a>'
         ],
         "pay_currency" => [
             "FriendlyName" => 'Acceptable crypto currencies',
